@@ -1,62 +1,44 @@
-# NextAdmin - Next.js Admin Dashboard Template and Components
+Next js admin pour le compte client, commercial et le chef de vente
 
-**NextAdmin** is a Free, open-source Next.js admin dashboard toolkit featuring 200+ UI components and templates that come with pre-built elements, components, pages, high-quality design, integrations, and much more to help you create powerful admin dashboards with ease.
-
-
-[![nextjs admin template](https://cdn.pimjo.com/nextadmin-2.png)](https://nextadmin.co/)
-
-
-**NextAdmin** provides you with a diverse set of dashboard UI components, elements, examples and pages necessary for creating top-notch admin panels or dashboards with **powerful** features and integrations. Whether you are working on a complex web application or a basic website, **NextAdmin** has got you covered.
-
-### [✨ Visit Website](https://nextadmin.co/)
-### [🚀 Live Demo](https://demo.nextadmin.co/)
-### [📖 Docs](https://docs.nextadmin.co/)
-
-By leveraging the latest features of **Next.js 14** and key functionalities like **server-side rendering (SSR)**, **static site generation (SSG)**, and seamless **API route integration**, **NextAdmin** ensures optimal performance. With the added benefits of **React 18 advancements** and **TypeScript** reliability, **NextAdmin** is the ultimate choice to kickstart your **Next.js** project efficiently.
+En tirant parti des dernières caractéristiques de **Next.js 14** et de fonctionnalités clés telles que **server-side rendering (SSR)**, **static site generation (SSG)**, et l'intégration transparente **API route**, **NextAdmin** garantit des performances optimales. Avec les avantages supplémentaires des **avancées de React 18** et la fiabilité de **TypeScript**, **NextAdmin** est le choix ultime pour démarrer efficacement votre projet **Next.js**.
 
 ## Installation
 
-1. Download/fork/clone the repo and Once you're in the correct directory, it's time to install all the necessary dependencies. You can do this by typing the following command:
+1. Téléchargez/fork/clone le repo et Une fois que vous êtes dans le bon répertoire, il est temps d'installer toutes les dépendances nécessaires. Vous pouvez le faire en tapant la commande suivante
 
 ```
 npm install
 ```
-If you're using **Yarn** as your package manager, the command will be:
+Si vous utilisez **Yarn** comme gestionnaire de paquets, la commande sera :
 
 ```
 yarn install
 ```
 
-2. Okay, you're almost there. Now all you need to do is start the development server. If you're using **npm**, the command is:
+2. Ok, vous y êtes presque. Il ne vous reste plus qu'à démarrer le serveur de développement. Si vous utilisez **npm**, la commande est la suivante :
 
 ```
 npm run dev
 ```
-And if you're using **Yarn**, it's:
+Et si vous utilisez **Yarn**, c'est :
 
 ```
 yarn dev
 ```
 
-And voila! You're now ready to start developing. **Happy coding**!
+Et voilà ! Vous êtes maintenant prêt à développer. **Happy coding** !
 
-## Highlighted Features
-**200+ Next.js Dashboard Ul Components and Templates** - includes a variety of prebuilt **Ul elements, components, pages, and examples** crafted with a high-quality design.
-Additionally, features seamless **essential integrations and extensive functionalities**.
+## Fonctionnalités mises en avant
+**Plus de 200 composants et modèles Next.js Dashboard Ul** - inclut une variété d'éléments **Ul préconstruits, de composants, de pages et d'exemples** conçus avec un design de haute qualité.
+De plus, il propose des **intégrations essentielles et des fonctionnalités étendues**.
 
-- A library of over **200** professional dashboard UI components and elements.
-- Five distinctive dashboard variations, catering to diverse use-cases.
-- A comprehensive set of essential dashboard and admin pages.
-- More than **45** **Next.js** files, ready for use.
-- Styling facilitated by **Tailwind CSS** files.
-- A design that resonates premium quality and high aesthetics.
-- A handy UI kit with assets.
-- Over ten web apps complete with examples.
-- Support for both **dark mode** and **light mode**.
-- Essential integrations including - Authentication (**NextAuth**), Database (**Postgres** with **Prisma**), and Search (**Algolia**).
-- Detailed and user-friendly documentation.
-- Customizable plugins and add-ons.
-- **TypeScript** compatibility.
-- Plus, much more!
-
-All these features and more make **NextAdmin** a robust, well-rounded solution for all your dashboard development needs.
+- Une bibliothèque de plus de **200** composants et éléments professionnels d'interface utilisateur de tableau de bord.
+- Cinq variantes de tableaux de bord distinctes, répondant à divers cas d'utilisation.
+- Un ensemble complet de pages essentielles pour le tableau de bord et l'administration.
+- Plus de **45** fichiers **Next.js**, prêts à l'emploi.
+- Un style facilité par les fichiers **Tailwind CSS**.
+- Un design qui évoque la qualité supérieure et l'esthétique.
+- Un kit d'interface utilisateur pratique avec des actifs.
+- Plus de dix applications web avec des exemples.
+- Prise en charge du **mode sombre** et du **mode lumineux**.
+- Intégrations essentielles incluant - Authentification (**NextAuth**), Base de données (**Postgres** avec **Prisma**), et Recherche (**Algol
